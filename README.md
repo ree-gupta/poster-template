@@ -31,6 +31,10 @@ If you're looking for a beamer presentation theme, take a look at [Auriga].
 
 1. Run `make` to build your poster
 
+-----
+
+If you are using the LaTeX Workshop extension for Visual Studio Code, make sure to change the TeX engine to LuaTeX by using the appropriate [recipe](https://github.com/James-Yu/LaTeX-Workshop/wiki/Compile#latex-recipes).
+
 ## FAQ
 
 See the [FAQ] in the Wiki for answers to frequently asked questions such as how
